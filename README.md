@@ -1,4 +1,4 @@
-\<h1 align="center">Hi 👋, I'm Momin</h1>
+
 <h3 align="center">A passionate MERN developer from Pakistan</h3>
 
 <p align="center">
